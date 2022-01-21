@@ -3,8 +3,8 @@
     "name":"Ville Martas",
     "occupation":"Student",
     "description":"Software engineering student from Lappeenranta",
-    "image":"profilepic.jpg",
-    "bio":"I am a third year software engineer student stydying at LUT-University. I have already finished my Bachelor's Thesis, and i'm currently finishing the rest of my Bachelor's courses while simultaneously doing courses for my Master's degree. I'm currently looking for work in software development, main interests being web-, game-, and VR-development. Contact me via phone or email!",
+    "image":"crop.PNG",
+    "bio":"I'm Ville, a Master's degree software engineering student at LUT-University. I have experience from React/Express from different projects, .  I've also delved into the basics of Unity (C#) and Unreal Engine (C++/Blueprints) development. Right now I'm familiarizing myself with the .NET stack by learning Blazor. Contact me via phone or email!",
     "contactmessage":"Parhaiten minuun saa yhteyden soittamalla tai sähköpostiviestillä.",
     "email": "ville.martas@hotmail.com ",
     "phone": "+358 407445656",
@@ -40,11 +40,11 @@
     ]
   },
   "resume":{
-    "skillmessage":"I have experience with the following technologies",
+
     "education":[
       {
         "school":"LUT-University",
-        "degree":"Bachelor student in Software Engineering",
+        "degree":"Master's degree student in Software Engineering",
         "graduated":"Started studies August 2018",
         "description":""
       },
@@ -76,15 +76,15 @@
       },
       {
         "company":"ABC Vanhakylä",
-        "title":"Cashier / Warehouse worker",
+        "title":"Cashier / Storage worker",
         "years":"May 2014 - October 2014",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Customer service and storage work in the store of the petrol station ABC."
       },
       {
         "company":"Sea Golf Rönnäs",
         "title":"Caddiemaster",
         "years":"June 2011 - July 2012",
-        "description":"During summers 2011 and 2012 I worked at a golf course near my home. I did both caddiemaster office work and physical field work at the golf course"
+        "description":"During summers 2011 and 2012 I worked at a golf course near my home. I did both caddiemaster office work and physical field work."
       }
     ],
     "other":[
@@ -155,16 +155,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Postified",
-        "category":"Microblogging service created with React/Express (source code in github).",
-        "image":"postifiedpic.jpg",
-        "url":"https://postified.herokuapp.com/"
+        "title":"Linvasion (Linnunrata Invasion)",
+        "category":"Into the Breach inspired turn-based game created with Unity/C#, 3d-models with Blender. I'm currently working on refactoring and rebuilding this project.",
+        "image":"linvasion1.png",
+        "url":"https://www.youtube.com/watch?v=0eFa6IjioCc&feature=youtu.be"
       },
       {
-        "title":"Linnunrata invasion",
-        "category":"Turn-based videogame created with Unity, 3d-models with Blender. Github link in video description.",
-        "image":"linnunratapic.jpg",
-        "url":"https://www.youtube.com/watch?v=0eFa6IjioCc&feature=youtu.be"
+        "title":"KyykkaVR",
+        "category":"Prototype of Virtual Reality simulator of finnish skittles. Created with Unreal Engine 4.26 by mostly using Blueprints.",
+        "image":"kyykkavr1.png",
+        "url":"https://www.youtube.com/watch?v=EKu40JlpBsY&t=40s"
+      },
+      {
+        "title":"SimpleShooter",
+        "category":"Created with C++ and extended a bit with Blueprints. Part of GameDev.tv's Unreal Engine course. Map created for fun.",
+        "image":"simpleshooter1.PNG",
+        "url":"https://www.youtube.com/watch?v=E4pUH-JFO58"
+      },
+      {
+        "title":"Postified",
+        "category":"Microblogging service course project created with React/Express. School project.",
+        "image":"postifiedpic.jpg",
+        "url":"https://postified.herokuapp.com/"
       },
       {
         "title":"Bachelor's thesis",
@@ -173,28 +185,28 @@
         "url":"https://www.researchgate.net/publication/344398477_Paalle_puettavan_teknologian_integrointi_virtuaalimaailmoihin"
       },
       {
-        "title":"Bank application",
-        "category":"Course project made with Android Studio.",
-        "image":"bankpic.jpg",
-        "url":"https://github.com/Vilzuge/Pankkisovellus"
-      },
-      {
         "title":"Sudoku Solver",
-        "category":"Small weekend project. Solver created with python that solves any (solvable) sudoku!",
+        "category":"Small weekend project. Solver created with python that solves any (solvable) sudoku.",
         "image":"sudokupic.jpg",
         "url":"https://github.com/Vilzuge/SudokuSolverGUI"
+      },
+      {
+        "title":"Bank application",
+        "category":"Course project made with Android Studio/Java.",
+        "image":"bankpic.jpg",
+        "url":"https://github.com/Vilzuge/Pankkisovellus"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }
