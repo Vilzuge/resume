@@ -49,8 +49,3 @@ class App extends Component {
 }
 
 export default App;
-
-/*
-<Contact data={this.state.resumeData.main}/>
-<Testimonials data={this.state.resumeData.testimonials}/>
-*/
