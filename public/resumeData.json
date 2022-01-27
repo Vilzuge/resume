@@ -4,7 +4,7 @@
     "occupation":"Student",
     "description":"Software engineering student from Lappeenranta",
     "image":"crop.PNG",
-    "bio":"I'm Ville, a Master's degree software engineering student at LUT-University. I have experience from React/Express from different projects and I've also delved into the basics of Unity (C#) and Unreal Engine (C++/Blueprints) development. Right now I'm familiarizing myself with the .NET stack by learning Blazor. I'm open to work, you can contact me via phone or email!",
+    "bio":"I'm Ville, a Master's degree software engineering student at LUT-University. I have experience from React/Express/MongoDB from different projects and I've also delved into the basics of Unity (C#) and Unreal Engine (C++/Blueprints) development. Right now I'm familiarizing myself with the .NET stack by experimenting with Blazor. I'm open to work, you can contact me via phone or email!",
     "contactmessage":"Parhaiten minuun saa yhteyden soittamalla tai sähköpostiviestillä.",
     "email": "ville.martas@hotmail.com ",
     "phone": "+358 407445656",
@@ -155,38 +155,38 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Linvasion (Linnunrata Invasion)",
-        "category":"Into the Breach inspired turn-based game created with Unity/C#, 3d-models with Blender. I'm currently working on refactoring and rebuilding this project.",
+        "title":"Linvasion",
+        "category":"Into the Breach inspired turn-based game-prototype created with Unity. Created to learn some Unity.",
         "image":"linvasion1.png",
         "url":"https://www.youtube.com/watch?v=0eFa6IjioCc&feature=youtu.be"
       },
       {
         "title":"KyykkaVR",
-        "category":"Prototype of Virtual Reality simulator of finnish skittles. Created with Unreal Engine 4.26 by mostly using Blueprints.",
+        "category":"VR simulator of finnish skittles. Created with Unreal Engine 4.26 by mostly using Blueprints.",
         "image":"kyykkavr1.png",
         "url":"https://www.youtube.com/watch?v=EKu40JlpBsY&t=40s"
       },
       {
         "title":"SimpleShooter",
-        "category":"Created with C++ and extended a bit with Blueprints. Part of GameDev.tv's Unreal Engine course. Map created for fun.",
+        "category":"Part of GameDev.tv's Unreal Engine 4 course. Project created for understanding UE4's different features and to see how C++ can be extended with blueprints.",
         "image":"simpleshooter1.PNG",
         "url":"https://www.youtube.com/watch?v=E4pUH-JFO58"
       },
       {
         "title":"Postified",
-        "category":"Microblogging service course project created with React/Express. School project.",
+        "category":"Microblogging service course project using React/Express. School project.",
         "image":"postifiedpic.jpg",
         "url":"https://postified.herokuapp.com/"
       },
       {
         "title":"Bachelor's thesis",
-        "category":"Research of integrating the wearable haptic suit Teslasuit to VR-worlds.",
+        "category":"Research of integrating the wearable haptic suit Teslasuit to an Unity VR-application.",
         "image":"teslasuitpic.jpg",
         "url":"https://www.researchgate.net/publication/344398477_Paalle_puettavan_teknologian_integrointi_virtuaalimaailmoihin"
       },
       {
         "title":"Sudoku Solver",
-        "category":"Small weekend project. Solver created with python that solves any (solvable) sudoku.",
+        "category":"Simple python app with tkinter GUI that solves a sudoku.",
         "image":"sudokupic.jpg",
         "url":"https://github.com/Vilzuge/SudokuSolverGUI"
       },
