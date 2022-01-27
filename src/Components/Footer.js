@@ -10,14 +10,13 @@ class Footer extends Component {
     }
 
     return (
-      <footer>
+      <footer className="footer">
         <div className="row">
             <div className="twelve columns">
               <ul className="social-links">
                   {networks}
               </ul>
               <ul className="copyright">
-                  <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
                   <li>Based on Tim Baker's react-resume-template</li>
               </ul>
             </div>
